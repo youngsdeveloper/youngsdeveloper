@@ -1,16 +1,19 @@
-### Hi there 👋
+# 👋​ ¡Hola!
+## Soy Enrique Rodriguez
+- 💻 Desarollador WEB (Vue.js + Laravel)
+- 📱 Desarollador Android (Kotlin/Java)
+- 👨‍💻​ Estudiante de Ingenieria Informática en la Universidad de Murcia
+## ¿En que trabajo ahora?
 
-<!--
-**youngsdeveloper/youngsdeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- [Dailyrapp]: Web y app de competiciones de Freestyle
+- [Juice Studio]: Desarollo web y app en Murcia. [Colaborador]
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Dailyrapp]: <https://dailyrapp.com>
+[Juice Studio]: <https://juice-studio.com/>
+
+## ¿Quieres saber más?
+Echale un vistazo a mi [portfolio]
+
+[portfolio]: <https://youngsdeveloper.github.io/portfolio/>
+
