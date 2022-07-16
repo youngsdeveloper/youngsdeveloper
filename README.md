@@ -1,5 +1,5 @@
 # 👋​ ¡Hola!
-## Soy Enrique Rodriguez
+## Soy Enrique Rodríguez
 - 💻 Desarollador WEB (Vue.js + Laravel)
 - 📱 Desarollador Android (Kotlin/Java)
 - 👨‍💻​ Estudiante de Ingenieria Informática en la Universidad de Murcia
