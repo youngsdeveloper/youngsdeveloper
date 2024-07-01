@@ -14,7 +14,7 @@
 [Dailyrapp]: <https://dailyrapp.com>
 [Juice Studio]: <https://juice-studio.com/>
 [BUS Murcia]: <https://github.com/youngsdeveloper/busmurcia-app>
-[Open GTFS Planner]: <https://github.com/youngsdeveloper/busmurcia-app](https://github.com/youngsdeveloper/open-gtfs-planner/>
+[Open GTFS Planner]: <https://github.com/youngsdeveloper/open-gtfs-planner>
 
 ## ¿Quieres saber más?
 Echale un vistazo a mi [portfolio]
